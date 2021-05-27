@@ -1,0 +1,14 @@
+body {
+  color: azure;
+  background-color: darkorchid
+}
+
+table {
+  background-color: slateblue;
+}
+a:hover {
+  color: white;
+}
+a {
+  color: orangered;
+}
